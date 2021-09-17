@@ -1,0 +1,8 @@
+keys.py
+venv
+.vscode
+*.html
+downloads/
+*__pycache__
+.cache
+.idea

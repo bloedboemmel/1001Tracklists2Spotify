@@ -1,0 +1,6 @@
+requests==2.25.0
+spotipy==2.17.1
+fake_headers==1.0.2
+google_images_download==2.8.0
+beautifulsoup4==4.10.0
+urllib3==1.26.0
