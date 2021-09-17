@@ -1,5 +1,5 @@
 # Automatic 1001Tracklist To Spotify Converter
-![alt text](./1001/Tracklists2Spotify.png)
+![alt text](./1001Tracklists2Spotify.png "1001Tracklists2Spotify Image")
 
 ## Usage
 Rename the file _keys.py to keys.py and add your credentials in it. You can get your api keys from [Spotify](https://developer.spotify.com/dashboard).
